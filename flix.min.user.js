@@ -1,7 +1,7 @@
 
 // ==UserScript==
 // @name        Flix
-// @version     Barracuda-3.0.6
+// @version     Barracuda-2.0.5
 // @namespace   @XOR
 // @description User script for downloading subtitles and audio from Netflix
 // @author      XOR / mod by Barracuda
