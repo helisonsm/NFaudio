@@ -982,7 +982,7 @@
                 },
                 h = Object.keys(c),
                 l = {
-                    "ddplus-5.1hq-dash": "E-AC-3 DD+ 5.1 [HQ]:",
+                    "ddplus-5.1hq-dash": "E-AC-3 DD+ 5.1[HQ]:",
                     "ddplus-atmos-dash": "E-AC-3 5.1 ATMOS:",
                     "dd-sq-atmos-5.1-dash": "E-AC-3 DD+ 5.1 ATMOS:",
                     "dd-sq-atmos-5.1-dash": "E-AC-3 DD+ 5.1 ATMOS:",
@@ -1336,3 +1336,4 @@
     });
 }).call(window);
 /* jshint ignore:end */
+
