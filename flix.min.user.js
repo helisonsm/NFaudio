@@ -978,8 +978,9 @@
                     "ddplus-2.0-dash-ad": 7,
                     "heaac-2-dash": 8,
                     "heaac-2-dash-ad": 9,
-                    "dfxp-ls-sdh": 10
-                },
+                    "dfxp-ls-sdh": 10,
+                    "webvtt-lssdh-ios": 11,
+            },
                 h = Object.keys(c),
                 l = {
                     "ddplus-5.1hq-dash": "E-AC-3 DD+ 5.1[HQ]:",
